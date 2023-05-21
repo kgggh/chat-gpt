@@ -1,0 +1,4 @@
+server:
+  port: 8081
+open-ai:
+  secret-key: {secret-key}
